@@ -22,6 +22,9 @@ Quantum training cost progression
 
 Confusion matrices (Quantum vs Classical)
 
+## Screenshots
+<img width="928" height="428" alt="image" src="https://github.com/user-attachments/assets/e0eb17e6-970d-4b4e-bc53-7382e81f80f3" />
+
 # 📦 Requirements
 
 Make sure you have Python 3.8+ installed.
